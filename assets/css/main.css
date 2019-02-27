@@ -1636,3 +1636,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.github-projects {
+			width: 98.5%;
+			align-items: center;
+		}
